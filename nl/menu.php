@@ -1,0 +1,26 @@
+<?php
+
+return array (
+  'admin' => 'Administrator',
+  'admin_dashboard' => 'Administratorenpaneel ',
+  'blog' => 'Blog',
+  'browse' => 'Bladeren',
+  'donate' => 'Doneren',
+  'forum' => 'Forum',
+  'home' => 'Home',
+  'invite' => 'Uitnodigen',
+  'messages' => 'Berichten',
+  'recommendations' => 'Aanbevelingen',
+  'reports' => 'Rapporten',
+  'requests' => 'Verzoeken',
+  'rules' => 'Regels',
+  'series' => 'Series',
+  'snatchlist' => 'Snatchlijst',
+  'staff' => 'Staff',
+  'staffpm' => 'Staff PM',
+  'support' => 'Ondersteuning',
+  'torrents' => 'Torrents',
+  'upload' => 'Uploads',
+  'user' => 'Gebruikers',
+  'wiki' => 'Wiki',
+);
