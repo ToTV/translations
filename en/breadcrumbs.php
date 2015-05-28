@@ -11,7 +11,7 @@ return [
     'messages'  => 'Messages',
     'messages_create'  => 'New Message',
     'notifications'  => 'Notifications',
-    'recommendations'  => 'Reccomendations',
+    'recommendations'  => 'Recommendations',
     'reports'  => 'Reports',
     'requests'  => 'Requests',
     'rules'  => 'Rules',
