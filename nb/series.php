@@ -40,6 +40,6 @@ return array (
   'updated' => 'Oppdatert',
   'year' => 'År',
   'site_rating' => 'Siden\'s rangering',
-  'fanart' => 'Fan kunst',
+  'fanart' => 'Tilhengerkunst',
   'rating' => 'Rangering',
 );
