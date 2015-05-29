@@ -20,7 +20,7 @@ return array (
   'releavance' => 'Relevance',
   'id' => 'ID',
   'air_day' => 'Air Day',
-  'imdb_rating' => 'iMDB Rating',
+  'imdb_rating' => 'IMDB Rating',
   'first_aired' => 'First Aired',
   'updated' => 'Updated',
   'order_by' => 'Order',
