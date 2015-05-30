@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'home'  => '主页',
+    'home'  => '首页',
     'blog'  => '公告',
     'actors'    => '演员',
     'donate'  => '捐赠',
@@ -13,7 +13,7 @@ return [
     'notifications'  => '提醒',
     'recommendations'  => '推荐',
     'reports'  => '举报',
-    'requests'  => '请求',
+    'requests'  => '求种',
     'rules'  => '规则',
     'series'  => '剧集',
     'snatchlist'  => '完成种子',
@@ -21,7 +21,7 @@ return [
     'staffpm'  => '管理组短讯',
     'staffpm_create'  => '给管理组发短讯',
     'torrents'  => '种子',
-    'user'  => '用户',
+    'user'  => '会员',
     'invite'  => '邀请',
     'user_edit'  => '个人设定',
     'user_next_class'  => '下一个用户等级',
