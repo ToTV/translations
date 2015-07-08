@@ -43,4 +43,6 @@ return [
     'series_banner' => 'Banner',
     'series_id' => 'Series Id',
     'torrents' => 'Torrents',
+    'mediainfo' => 'Mediainfo Log',
+    'additional' => 'Additional Info'
 ];
