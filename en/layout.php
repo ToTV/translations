@@ -34,7 +34,7 @@ return array (
     'user_edit' => 'Edit Profile',
     'invite' => 'Invite',
     'wiki' => 'Wiki',
-    '' => '',
+    'next_class' => 'Next Class',
     '' => '',
     '' => '',
     '' => '',
