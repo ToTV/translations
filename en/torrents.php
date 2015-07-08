@@ -44,5 +44,5 @@ return [
     'series_id' => 'Series Id',
     'torrents' => 'Torrents',
     'mediainfo' => 'Mediainfo Log',
-    'additional' => 'Additional Info'
+    'additional' => 'Additional Info',
 ];
