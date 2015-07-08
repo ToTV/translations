@@ -109,4 +109,5 @@ return array (
     ],
     'paranoia_hidden' => 'Hidden',
     'next_class'    => 'Next Class',
+    'custom_css'    => 'Custom CSS',
 );
