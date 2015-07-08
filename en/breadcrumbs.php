@@ -14,6 +14,7 @@ return [
     'recommendations'  => 'Recommendations',
     'reports'  => 'Reports',
     'requests'  => 'Requests',
+    'request_create' => 'New Request',
     'rules'  => 'Rules',
     'series'  => 'Series',
     'snatchlist'  => 'Snatch List',
