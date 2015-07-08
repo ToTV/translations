@@ -30,4 +30,5 @@ return [
     'series_rating'  => 'Series Ratings',
     'reports_new'  => 'New Report',
     'torrents_upload' => 'Upload Torrent',
+    'wiki'          => 'Wiki',
 ];
