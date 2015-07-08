@@ -9,4 +9,5 @@ return array (
   'new_blog_post' => 'New Blog Post!',
   'new_wall_comment' => 'You have a new wall post',
   'new_comment_reply' => 'Someone has replied to your comment!',
+  'staff_pm_reply'    => 'You received a reply to your Staff PM!',
 );
