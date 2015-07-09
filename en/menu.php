@@ -44,4 +44,6 @@ return [
     'admin_forums'           => 'Forums',
     'admin_forum_groups'     => 'Forum Groups',
     'awards'                 => 'Awards',
+    'store'                  => 'Store',
+    'ratings'                => 'Ratings',
 ];

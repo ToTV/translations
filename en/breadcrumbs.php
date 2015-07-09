@@ -14,6 +14,7 @@ return [
     'recommendations'  => 'Recommendations',
     'reports'  => 'Reports',
     'requests'  => 'Requests',
+    'request_create' => 'New Request',
     'rules'  => 'Rules',
     'series'  => 'Series',
     'snatchlist'  => 'Snatch List',
@@ -30,4 +31,5 @@ return [
     'series_rating'  => 'Series Ratings',
     'reports_new'  => 'New Report',
     'torrents_upload' => 'Upload Torrent',
+    'wiki'          => 'Wiki',
 ];
