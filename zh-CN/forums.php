@@ -9,7 +9,7 @@ return array (
   'body' => '正文',
   'topics' => '主题',
   'new_topic' => '新主题',
-  'title' => '主题',
+  'title' => '标题',
   'report' => '举报',
   'subscribe' => '订阅',
   'unsubscribe' => '取消订阅',
