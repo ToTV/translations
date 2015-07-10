@@ -26,8 +26,9 @@ return [
     'user_edit'  => '个人设定',
     'user_next_class'  => '下一个用户等级',
     'friends'  => '好友',
-    'awards'  => '奖章',
+    'awards'  => '成就',
     'series_rating'  => '剧集评分',
-    'reports_new'  => '新举报',
+    'reports_new'  => '新的举报',
     'torrents_upload' => '上传种子',
+    'wiki'          => '百科',
 ];
