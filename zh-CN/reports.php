@@ -1,6 +1,6 @@
 <?php
 
 return array (
-  'new_report' => '新举报',
+  'new_report' => '发起举报',
   'reason' => '理由',
 );
