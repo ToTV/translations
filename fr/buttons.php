@@ -3,10 +3,11 @@
 return array (
   'cancel' => 'Annuler',
   'edit' => 'Editer',
-  'post' => 'Émettre',
+  'post' => 'Soumettre',
   'reset' => 'Réinitialiser',
   'save' => 'Sauver',
-  'select_file' => 'Sélectionnez fichier',
+  'select_file' => 'Sélectionner un fichier',
   'send' => 'Envoyer',
-  'submit' => 'soumettre',
+  'submit' => 'Soumettre',
+  'remove' => 'Supprimer',
 );

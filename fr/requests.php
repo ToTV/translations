@@ -6,4 +6,6 @@ return array (
   'series' => 'Série',
   'vote' => 'Vote',
   'votes' => 'Votes',
+  'search' => 'Recherche',
+  'requests' => 'Requêtes'
 );
