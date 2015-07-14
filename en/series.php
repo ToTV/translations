@@ -27,7 +27,6 @@ return array (
   'ascending' => 'Asc',
   'descending' => 'Desc',
   'series' => 'Series',
-  'airs' => 'Airs',
   'no_results' => 'No series found',
   'latest_episode' => 'Latest Episode',
   'show_info' => 'Show Info',

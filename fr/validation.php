@@ -9,7 +9,7 @@ return array(
     |
     | The following language lines contain the default error messages used by
     | the validator class. Some of these rules have multiple versions such
-    | such as the size rules. Feel free to tweak each of these messages.
+    | as the size rules. Feel free to tweak each of these messages here.
     |
     */
 
@@ -27,7 +27,7 @@ return array(
         "string"  => "Le texte :attribute doit avoir entre :min et :max caractères.",
         "array"   => "Le champ :attribute doit avoir entre :min et :max éléments."
     ),
-    "boolean"              => "Le champ :attribute doit true ou false",
+    "boolean"              => "Le champ :attribute doit vrai ou faux",
     "confirmed"            => "Le champ de confirmation :attribute ne correspond pas.",
     "date"                 => "Le champ :attribute n'est pas une date valide.",
     "date_format"          => "Le champ :attribute ne correspond pas au format :format.",
@@ -49,7 +49,7 @@ return array(
     "mimes"                => "Le champ :attribute doit être un fichier de type : :values.",
     "min"                  => array(
         "numeric" => "La valeur de :attribute doit être supérieure à :min.",
-        "file"    => "Le fichier :attribute doit être plus gros que :min kilobytes.",
+        "file"    => "Le fichier :attribute doit être plus gros que :min kilo octets.",
         "string"  => "Le texte :attribute doit contenir au moins :min caractères.",
         "array"   => "Le champ :attribute doit avoir au moins :min éléments."
     ),
@@ -65,13 +65,19 @@ return array(
     "same"                 => "Les champs :attribute et :other doivent être identiques.",
     "size"                 => array(
         "numeric" => "La valeur de :attribute doit être :size.",
-        "file"    => "La taille du fichier de :attribute doit être de :size kilobytes.",
+        "file"    => "La taille du fichier de :attribute doit être de :size kilo octets.",
         "string"  => "Le texte de :attribute doit contenir :size caractères.",
         "array"   => "Le champ :attribute doit contenir :size éléments."
     ),
     "timezone"             => "Le champ :attribute doit être une zone valide.",
     "unique"               => "La valeur du champ :attribute est déjà utilisée.",
     "url"                  => "Le format de l'URL de :attribute n'est pas valide.",
+    
+    'dissimilar' => "Les champs :attribute et :other sont trop similaires.",
+    'dissimilar_user' => "Le champ :attribute ne peut pas être similaire à :other.",
+    'dissimilar_to_tracker_name' => "La valeur de :attribute est trop prévisible.", // They'll know why; no reason to advertise the reason to anyone looking over the user's shoulder
+    'not_common_password' => "Le terme :attribute est trop commun.",
+    'valid_invitation_code' => "La valeur de :attribute est invalide ou a expiré.",
 
     /*
     |--------------------------------------------------------------------------
@@ -101,36 +107,13 @@ return array(
     |
     */
 
-    'attributes' => array(
-        "name" => "Nom",
-        "username" => "Pseudo",
-        "email" => "E-mail",
-        "first_name" => "Prénom",
-        "last_name" => "Nom",
-        "password" => "Mot de passe",
-        "password_confirmation" => "Confirmation du mot de passe",
-        "city" => "Ville",
-        "country" => "Pays",
-        "address" => "Adresse",
-        "phone" => "Téléphone",
-        "mobile" => "Portable",
-        "age" => "Age",
-        "sex" => "Sexe",
-        "gender" => "Genre",
-        "day" => "Jour",
-        "month" => "Mois",
-        "year" => "Année",
-        "hour" => "Heure",
-        "minute" => "Minute",
-        "second" => "Seconde",
-        "title" => "Titre",
-        "content" => "Contenu",
-        "description" => "Description",
-        "excerpt" => "Extrait",
-        "date" => "Date",
-        "time" => "Heure",
-        "available" => "Disponible",
-        "size" => "Taille"
-    ),
+    'attributes' => [
+        'code' => "Code d'invitation",
+        'irc_key' => "Clé IRC",
+        'tvdb_accountid' => "Identifiant TVDB",
+    ],
+
+
+    "sweetcaptcha" => 'Le captcha est invalide.',
 
 );
