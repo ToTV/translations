@@ -46,4 +46,5 @@ return [
     'awards'                 => 'Awards',
     'store'                  => 'Store',
     'ratings'                => 'Ratings',
+    'calendar'               => 'Calendar',
 ];
